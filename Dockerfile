@@ -18,5 +18,6 @@ RUN python -m pip install --no-cache-dir --upgrade pip
 RUN pip3 install --no-cache-dir --upgrade -r requirements.txt
 
 ENV GIT_PYTHON_REFRESH=quiet
+ENV GIT_PYTHON_GIT_EXECUTABLE=/usr/bin/git
 
 CMD ["bash", "start"]
