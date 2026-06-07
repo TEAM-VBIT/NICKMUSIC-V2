@@ -26,21 +26,21 @@ from config import BANNED_USERS
 from strings import get_string
 
 NEXIO = [
-    "https://files.catbox.moe/ij3b0p.jpg",
-    "https://files.catbox.moe/lna9eh.jpg",
-    "https://files.catbox.moe/8i1ugj.jpg",
-    "https://files.catbox.moe/raxhof.jpg",
-    "https://files.catbox.moe/0z6diw.jpg",
-    "https://files.catbox.moe/s8lc80.jpg",
-    "https://files.catbox.moe/wyq373.jpg",
-    "https://files.catbox.moe/7dwxl5.jpg",
-    "https://files.catbox.moe/94v7qh.jpg",
-    "https://files.catbox.moe/ij3b0p.jpg",
-    "https://files.catbox.moe/vxnw8u.jpg",
-    "https://files.catbox.moe/vxnw8u.jpg",
-    "https://files.catbox.moe/8i1ugj.jpg",
-    "https://files.catbox.moe/ztzajy.jpg",
-    "https://files.catbox.moe/kskt56.jpg",
+    "https://i.ibb.co/SXPNnRtS/x.jpg",
+    "https://i.ibb.co/SXPNnRtS/x.jpg",
+    "https://i.ibb.co/SXPNnRtS/x.jpg",
+    "https://i.ibb.co/SXPNnRtS/x.jpg",
+    "https://i.ibb.co/SXPNnRtS/x.jpg",
+    "https://i.ibb.co/SXPNnRtS/x.jpg",
+    "https://i.ibb.co/SXPNnRtS/x.jpg",
+    "https://i.ibb.co/SXPNnRtS/x.jpg",
+    "https://i.ibb.co/SXPNnRtS/x.jpg",
+    "https://i.ibb.co/SXPNnRtS/x.jpg",
+    "https://i.ibb.co/SXPNnRtS/x.jpg",
+    "https://i.ibb.co/SXPNnRtS/x.jpg",
+    "https://i.ibb.co/SXPNnRtS/x.jpg",
+    "https://i.ibb.co/SXPNnRtS/x.jpg",
+    "https://i.ibb.co/SXPNnRtS/x.jpg",
 ]
 
 
