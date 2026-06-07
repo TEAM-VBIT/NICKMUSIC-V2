@@ -1,0 +1,63 @@
+{
+  "name": "Vampu MUSIC",
+  "description": "A Telegram Music Player Bot, written in Python with Pyrogram and Py-Tgcalls.",
+  "logo": "https://graph.org/file/bbae2c50b58056ecc4df7.jpg",
+  "keywords": [
+    "python3",
+    "telegram",
+    "bot",
+    "MusicBot",
+    "telegram-bot",
+    "pyrogram"
+  ],
+  "env": {
+    "API_ID": {
+      "description": "Get this value from https://my.telegram.org",
+      "required": true
+    },
+    "API_HASH": {
+      "description": "Get this value from https://my.telegram.org",
+      "required": true
+    },
+    "BOT_TOKEN": {
+      "description": "A Bot's token from Botfather",
+      "required": true
+    },
+    "MONGO_DB_URI": {
+      "description": "MongoDB URL",
+      "required": true
+    },
+    "OWNER_ID": {
+      "description": "Owner User ID",
+      "required": true
+    },
+    "STRING_SESSION": {
+      "description": "Pyrogram String Session",
+      "required": true
+    },
+    "LOGGER_ID": {
+      "description": "Log Group ID",
+      "required": true
+    },
+    "HEROKU_API_KEY": {
+      "description": "Heroku API Key",
+      "required": false
+    },
+    "HEROKU_APP_NAME": {
+      "description": "Heroku App Name",
+      "required": false
+    }
+  },
+  "buildpacks": [
+    {
+      "url": "heroku/python"
+    },
+    {
+      "url": "heroku/nodejs"
+    },
+    {
+      "url": "https://github.com/jonathanong/heroku-buildpack-ffmpeg-latest.git"
+    }
+  ],
+  "stack": "heroku-24"
+}
