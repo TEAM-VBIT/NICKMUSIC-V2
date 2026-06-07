@@ -1,4 +1,4 @@
-```python
+python
 import asyncio
 import os
 import shutil
@@ -165,4 +165,3 @@ async def restart_(_, message):
     )
 
     os.system(f"kill -9 {os.getpid()} && bash start")
-```
