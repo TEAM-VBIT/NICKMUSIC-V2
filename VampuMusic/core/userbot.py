@@ -49,8 +49,8 @@ class Userbot(Client):
         if config.STRING1:
             await self.one.start()
             try:
-                await self.one.join_chat("Vibe_Bots")
-                await self.one.join_chat("IamIstkhar")
+                await self.one.join_chat("llNICK_UPDATESll")
+                await self.one.join_chat("llNICK_UPDATESll")
             except:
                 pass
             assistants.append(1)
