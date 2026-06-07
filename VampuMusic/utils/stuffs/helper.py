@@ -14,8 +14,8 @@ class Helper(object):
 » ᴘʀɪᴠᴧᴛє & sєᴄυʀє sσᴜʀᴄє | ηᴏ ᴅᴧᴛᴧ sʜᴧʀᴇ
 » ʟɪᴄєηᴄєᴅ ᴜsє | ʏσυтυʙє ᴀᴘɪ sυᴘᴘσʀтєᴅ 
 ──────────────────────
-➤ ʙσᴛ sᴛᴧᴛυs & ϻσʀє ʙσᴛs - [ᴄʟɪᴄᴋ ʜєʀє](https://t.me/kriti_update)
-➤ ᴘᴧɪᴅ ᴘʀσϻσᴛɪση :- [ᴄσηᴛᴧᴄᴛ ʜєʀє](https://t.me/lll_BADNAM_BABY_llll)
+➤ ʙσᴛ sᴛᴧᴛυs & ϻσʀє ʙσᴛs - [ᴄʟɪᴄᴋ ʜєʀє](https://t.me/llNICK_UPDATESll)
+➤ ᴘᴧɪᴅ ᴘʀσϻσᴛɪση :- [ᴄσηᴛᴧᴄᴛ ʜєʀє](https://t.me/llDEAR_NICKll)
 ─────────────────────────**
 '''
     
@@ -26,9 +26,9 @@ class Helper(object):
 ● ᴋᴇᴇᴘ ᴄʜᴧᴛ ᴄʟєᴧη ᴧηᴅ ʙᴜɢ-ғʀєє.
 ● ᴧηʏ ᴘʀσʙʟєϻ ? ᴊᴜsᴛ ᴄσηᴛᴧᴄᴛ ᴜs.
 ─────────────────────────
-❖ υᴘᴅᴧᴛєs ᴄʜᴧηηєʟ ➥ [˹ᴋɪʀᴛɪ ʙᴏᴛѕ˼](https://t.me/kriti_update)
-❖ sυᴘᴘσʀᴛ ᴄʜᴧᴛ ➥ [˹ᴋɪʀᴛɪ ʙᴏᴛѕ˼](https://t.me/kriti_supprot)
-❖ ɢɪᴛ ʜᴜʙ ʟɪηᴋ ➥ [тєᴧϻ-ᴋʀɪᴛɪ](https://github.com/Badnam019)
+❖ υᴘᴅᴧᴛєs ᴄʜᴧηηєʟ ➥ [˹ɴɪᴄᴋ ʙᴏᴛѕ˼](https://t.me/llNICK_UPDATESll)
+❖ sυᴘᴘσʀᴛ ᴄʜᴧᴛ ➥ [˹ɴɪᴄᴋ ʙᴏᴛѕ˼](https://t.me/llNICK_UPDATESll)
+❖ ɢɪᴛ ʜᴜʙ ʟɪηᴋ ➥ [тєᴧϻ-ɴɪᴄᴋ](https://github.com/AnonymousX1025)
 ─────────────────────────**
 '''
 
@@ -44,7 +44,7 @@ class Helper(object):
 /setphoto : sᴇᴛ ɢʀᴏᴜᴘ ᴘʜᴏᴛᴏ
 /rmphoto : ʀᴇᴍᴏᴠᴇ ɢʀᴏᴜᴘ ᴘʜᴏᴛᴏ
 
-**⊚ ᴘᴏᴡᴇʀᴇᴅ ʙʏ :- [˹ᴋɪʀᴛɪ ʙᴏᴛѕ˼](https://t.me/kriti_update)**
+**⊚ ᴘᴏᴡᴇʀᴇᴅ ʙʏ :- [˹ɴɪᴄᴋ ʙᴏᴛѕ˼](https://t.me/llNICK_UPDATESll)**
 '''
 
     HELP_MOD = '''
@@ -56,7 +56,7 @@ class Helper(object):
 /unbanall : ᴜɴʙᴀɴ ᴀʟʟ ʙᴀɴɴᴇᴅ ᴍᴇᴍʙᴇʀs
 /unpinall : ᴜɴᴘɪɴ ᴀʟʟ ᴘɪɴɴᴇᴅ ᴍᴇssᴀɢᴇs
 
-**⊚ ᴘᴏᴡᴇʀᴇᴅ ʙʏ :- [˹ᴋɪʀᴛɪ ʙᴏᴛѕ˼](https://t.me/kriti_update)**
+**⊚ ᴘᴏᴡᴇʀᴇᴅ ʙʏ :- [˹ɴɪᴄᴋ ʙᴏᴛѕ˼](https://t.me/llNICK_UPDATESll)**
 '''
     
     HELP_WEL = '''
@@ -65,7 +65,7 @@ class Helper(object):
 /welcome on : ᴇɴᴀʙʟᴇ ᴡᴇʟᴄᴏᴍᴇ
 /welcome off : ᴅɪsᴀʙʟᴇ ᴡᴇʟᴄᴏᴍᴇ
 
-**⊚ ᴘᴏᴡᴇʀᴇᴅ ʙʏ :- [˹ᴋɪʀᴛɪ ʙᴏᴛѕ˼](https://t.me/kriti_update)**
+**⊚ ᴘᴏᴡᴇʀᴇᴅ ʙʏ :- [˹ɴɪᴄᴋ ʙᴏᴛѕ˼](https://t.me/llNICK_UPDATESll)**
 '''
 
     HELP_VC = '''
@@ -74,7 +74,7 @@ class Helper(object):
 /vclogger on : ᴠᴄ ʟᴏɢɢᴇʀ ᴏɴ
 /vclogger off : ᴠᴄ ʟᴏɢɢᴇʀ ᴏғғ
 
-**⊚ ᴘᴏᴡᴇʀᴇᴅ ʙʏ :- [˹ᴋɪʀᴛɪ ʙᴏᴛѕ˼](https://t.me/kriti_update)**
+**⊚ ᴘᴏᴡᴇʀᴇᴅ ʙʏ :- [˹ɴɪᴄᴋ ʙᴏᴛѕ˼](https://t.me/llNICK_UPDATESll)**
 '''
 
     HELP_ADMIN = '''
@@ -84,7 +84,7 @@ class Helper(object):
 /demote : ᴅᴇᴍᴏᴛᴇ ᴜsᴇʀ ᴀɴ ᴀᴅᴍɪɴ
 /fullpromote : ᴘʀᴏᴍᴏᴛᴇ ᴜsᴇʀs ᴀᴅᴍɪɴ ᴡɪᴛʜ ғᴜʟʟ ʀɪɢʜᴛs
 
-**⊚ ᴘᴏᴡᴇʀᴇᴅ ʙʏ :- [˹ᴋɪʀᴛɪ ʙᴏᴛѕ˼](https://t.me/kriti_update)**
+**⊚ ᴘᴏᴡᴇʀᴇᴅ ʙʏ :- [˹ɴɪᴄᴋ ʙᴏᴛѕ˼](https://t.me/llNICK_UPDATESll)**
 '''
 
 
@@ -97,5 +97,5 @@ class Helper(object):
 /unmute : ᴜɴᴍᴜᴛᴇ ᴀ ᴜsᴇʀ
 /tmute : ᴛɪᴍɪɴɢ ᴍᴜᴛᴇ 
 
-**⊚ ᴘᴏᴡᴇʀᴇᴅ ʙʏ :- [˹ᴋɪʀᴛɪ ʙᴏᴛѕ˼](https://t.me/kriti_update)**
+**⊚ ᴘᴏᴡᴇʀᴇᴅ ʙʏ :- [˹ɴɪᴄᴋ ʙᴏᴛѕ˼](https://t.me/llNICK_UPDATESll)**
     '''
