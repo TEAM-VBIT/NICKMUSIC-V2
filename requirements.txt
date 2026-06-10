@@ -21,8 +21,10 @@ speedtest-cli
 spotipy
 tgcrypto
 unidecode
-git+https://github.com
-yt-searcher
+yt-dlp
+youtube-search
+py-yt-search
+youtube-search-python
 httpx>=0.28.1
 opencv-python
 beautifulsoup4
