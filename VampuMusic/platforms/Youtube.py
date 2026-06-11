@@ -13,7 +13,7 @@ from pyrogram.enums import MessageEntityType
 from pyrogram.types import Message
 from requests.adapters import HTTPAdapter
 from urllib3.util.retry import Retry
-from ytSearch import VideosSearch, Playlist
+from youtubesearchpython import VideosSearch, Playlist
 from VampuMusic import LOGGER
 from VampuMusic.utils.database import is_on_off
 from VampuMusic.utils.formatters import time_to_seconds
