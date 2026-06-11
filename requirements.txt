@@ -22,8 +22,7 @@ spotipy
 tgcrypto
 unidecode
 yt-dlp
-py-yt-search
 httpx>=0.28.1
 opencv-python
 beautifulsoup4
-youtube-search-python
+youtube-search-python==1.6.6
